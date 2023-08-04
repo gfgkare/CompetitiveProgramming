@@ -1,4 +1,4 @@
-                                             **COMPETITIVE PROGRAMMING COMMUNITY**
+                                             **COMPETITIVE PROGRAMMING**
 
 ![Why Should You Do Competitive Programming? - GeeksforGeeks](Aspose.Words.3835d836-6a0f-4242-8f8d-ed812a0881c6.001.png)
 
@@ -12,7 +12,7 @@ This repository is dedicated to the passionate Competitive Programmers and DSA e
 
 Problem Solutions: Here, you'll find solutions to various coding problems related to Competitive Programming and DSA. Feel free to contribute your own solutions and explore different problem-solving approaches.
 
-Educational Content: We curate and share important DSA-related educational content, notes, and resources to supplement your learning journey.
+Educational Content: We share important DSA-related educational content, notes, and resources to supplement your learning journey.
 
 Collaboration: Collaborate with fellow programmers, discuss algorithms and data structures, and provide constructive feedback on each other's solutions.
 
