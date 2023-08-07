@@ -1,0 +1,25 @@
+class Solution
+{
+    //Function to find the next greater element for each element of the array.
+    public static long[] nextLargerElement(long[] arr, int n)
+    { 
+        // Your code here
+        long a[]= new long[n];
+        Deque<Long>s=new ArrayDeque<>();
+        s.push(arr[n-1]);
+        a[n-1]=-1;
+        for(long i=n-2;i>=0;i--){
+            while(!s.isEmpty() && s.peek()<=arr[(int)i]){
+                s.pop();
+            }
+            if(s.isEmpty()){
+                a[(int)i]=-1;
+            }
+            else{
+                a[(int)i]=s.peek();
+            }
+            s.push(arr[(int)i]);
+        }
+        return a;
+    } 
+}
